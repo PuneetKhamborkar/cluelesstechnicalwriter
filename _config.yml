@@ -20,7 +20,7 @@
 
 title: Clueless Technical Writer
 email:
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   www.cluelesstechnicalwriter.com is a website for new technical writers, helping them navigate through the world of information development.
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://www.cluelesstechnicalwriter.com" # the base hostname & protocol for your site, e.g. http://example.com
