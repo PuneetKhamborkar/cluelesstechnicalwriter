@@ -29,7 +29,6 @@ github_username:
 
 # Build settings
 theme: minimal-mistakes-jekyll
-
 plugins:
   - jekyll-feed
 
