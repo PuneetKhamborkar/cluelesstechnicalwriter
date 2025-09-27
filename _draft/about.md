@@ -4,15 +4,28 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Clueless Technical Writer is a website born out of curiousity to learn new and cool stuff about technical writing. While growing, the founder also noticed that a lot of technical writers are still as clueless as he was in the beginning. Hence he decided to summarize his learnings and help other technical writers be a better professional.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![CTW Logo](../assets/images/logo.png)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The website is is majorly segregated in 5 parts.
 
+#### 1. TW UNI
 
-[jekyll-organization]: https://github.com/jekyll
+TW UNI stands for Technical Writing University. It consists of the CHEATSHEETS of all the languages and theories learned by the founder. This segment really helps the visiting technical writers to brush-up their skill and get interview ready. It also helps them if they are stuck anywhere in the documetentation process. 
+
+#### 2. Docs
+
+This is a place where the founders creates a lot of sample documentation, e.g., software documentation, API documentation, feature documentation, user guides, user Manuals, troubleshooting guides, release notes, etc.
+
+#### 3. AI
+
+Here, the founder tries to blend the power of AI with technical writing. He goes around using  and creating Gen and Agentic AIs to perform technical writing more efficiently.
+
+#### 4. Blogs
+
+These are simple blogs, which the founder writes to keep his touch with the creative writing.
+
+#### 5. Beyond TW
+
+This section is specially for the professional technical writers, who are looking forword transistion from a technical writer to a Business Analyst or a Product Owner role.
