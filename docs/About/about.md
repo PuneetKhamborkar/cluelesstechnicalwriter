@@ -6,8 +6,6 @@ permalink: /About/
 
 Clueless Technical Writer is a website born out of curiousity to learn new and cool stuff about technical writing. While growing, the founder also noticed that a lot of technical writers are still as clueless as he was in the beginning. Hence he decided to summarize his learnings and help other technical writers be a better professional.
 
-![CTW Logo](../assets/images/logo.png)
-
 The website is is majorly segregated in 5 parts.
 
 #### 1. TW UNI
