@@ -1,6 +1,6 @@
 ---
-layout: collection
-title: "Blog 3"
+layout: posts
+title: Blog 3
 permalink: /Blogs/
 ---
 

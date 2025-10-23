@@ -1,9 +1,7 @@
 ---
 layout: collection
-title: Sample Documentation
-permalink: /S-Docs/
-nav_link: true 
-toc: true
+title: UX Documentation
+permalink: /S-Docs/UX-Doc
 ---
 # Se limite qui
 

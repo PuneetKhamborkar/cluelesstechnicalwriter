@@ -1,6 +1,6 @@
 ---
-layout: collection
-title: "Yet Another Technical Writing Blog?"
+layout: posts
+title: Yet Another Technical Writing Blog?
 permalink: /Blogs/
 ---
 
