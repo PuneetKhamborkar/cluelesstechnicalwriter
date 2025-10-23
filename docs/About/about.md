@@ -9,22 +9,22 @@ Clueless Technical Writer is a website born out of curiousity to learn new and c
 
 The website is is majorly segregated in 5 parts.
 
-## 1. TW UNI
+## TW UNI
 
 TW UNI stands for Technical Writing University. It consists of the CHEATSHEETS of all the languages and theories learned by the founder. This segment really helps the visiting technical writers to brush-up their skill and get interview ready. It also helps them if they are stuck anywhere in the documetentation process. 
 
-## 2. Docs
+## Docs
 
 This is a place where the founders creates a lot of sample documentation, e.g., software documentation, API documentation, feature documentation, user guides, user Manuals, troubleshooting guides, release notes, etc.
 
-## 3. AI
+## AI
 
 Here, the founder tries to blend the power of AI with technical writing. He goes around using  and creating Gen and Agentic AIs to perform technical writing more efficiently.
 
-## 4. Blogs
+## Blogs
 
 These are simple blogs, which the founder writes to keep his touch with the creative writing.
 
-## 5. Beyond TW
+## Beyond TW
 
 This section is specially for the professional technical writers, who are looking forword transistion from a technical writer to a Business Analyst or a Product Owner role.
