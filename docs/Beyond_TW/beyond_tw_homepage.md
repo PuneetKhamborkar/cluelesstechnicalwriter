@@ -1,5 +1,5 @@
 ---
-layout: colection
+layout: collection
 title: Beyod Technical Writing
 permalink: /Beyond-TW/
 ---

@@ -2,10 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: single
+layout: home
+toc: true
 ---
 
-# Nagivate through the world of technical writing with Clueless Technical Writer
+## Nagivate through the world of technical writing with Clueless Technical Writer
 
 Become a world-class technical writer within a next few days. Check out [TW UNI](https://www.cluelesstechnicalwriter.com/TW-UNI/) to learn all the cool stuff about technical writer.
 
