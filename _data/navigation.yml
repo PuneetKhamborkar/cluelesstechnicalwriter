@@ -2,16 +2,16 @@
 main:
   - title: "About"
     url: /About/
-  - title: "TW UNI"
-    url: /TW-UNI/
+  - title: "TWing UNI"
+    url: /TWing-UNI/
   - title: "S-Docs"
     url: /S-Docs/
   - title: "AI"
     url: /AI/
   - title: "Blogs"
     url: /Blogs/
-  - title: "Beyond TW"
-    url: /Beyond-TW/
+  - title: "Beyond TWing"
+    url: /Beyond-TWing/
 
 # S-Docs links
 S-Docs:

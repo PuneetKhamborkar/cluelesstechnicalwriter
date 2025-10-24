@@ -2,8 +2,6 @@
 layout: collection
 title: Product Documentation
 permalink: /S-Docs/Product-Doc
-nav_link: true 
-toc: true
 ---
 # Se limite qui
 
