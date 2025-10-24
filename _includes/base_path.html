@@ -1,0 +1,11 @@
+{% comment %}
+  base_path.html
+  A helper include used by the Minimal Mistakes Jekyll theme
+  Sets a variable 'base_path' for relative linking support.
+{% endcomment %}
+
+{% if site.baseurl %}
+  {% assign base_path = site.baseurl %}
+{% else %}
+  {% assign base_path = "" %}
+{% endif %}
