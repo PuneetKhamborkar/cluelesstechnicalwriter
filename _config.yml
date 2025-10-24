@@ -49,7 +49,7 @@ sidebar:
     - Blogs
 
 collections:
-  Blogs:
+  blog:
     output: true
     permalink: /Blogs/:title/
 # Exclude from processing.
