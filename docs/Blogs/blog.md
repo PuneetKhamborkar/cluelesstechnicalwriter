@@ -6,11 +6,8 @@ author_profile: false
 sidebar:
   nav: "Blogs"
 ---
-# Blog
-
-A clueless technical writer's blog to document his learnings.
 
 {% comment %} {% include base_path %} {% endcomment %}
-{% for post in site.blog %}
+{% for post in site.Blogs %}
   {% include archive-single.html %}
 {% endfor %}
