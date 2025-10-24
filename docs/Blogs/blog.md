@@ -10,7 +10,7 @@ sidebar:
 
 A clueless technical writer's blog to document his learnings.
 
-{% include base_path %}
+{% comment %} {% include base_path %} {% endcomment %}
 {% for post in site.blog %}
   {% include archive-single.html %}
 {% endfor %}
