@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: collection
 title: "Blog2"
 permalink: /Blogs/
 toc: true
