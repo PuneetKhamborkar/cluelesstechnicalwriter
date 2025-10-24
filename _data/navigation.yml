@@ -40,9 +40,5 @@ S-Docs:
 Blogs:
   - title: "Blogs"
     children:
-      - title: "Blog1"
-        url: /
-      - title: "Blog2"
-        url: /
-      - title: "Blog3"
-        url: /
+      - title: "Blogcast"
+        url: /Blogs/Blogcast/

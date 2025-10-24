@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: single
 title: Grant
 permalink: /S-Docs/Grant-Doc
 toc: true

@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: single
 title: Medical Documentation
 permalink: /S-Docs/Medical-Doc
 toc: true

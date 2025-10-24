@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: single
 title: User Guide
 permalink: /S-Docs/User-Guide
 toc: true

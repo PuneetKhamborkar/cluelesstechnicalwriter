@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: single
 title: User-Manual
 permalink: /S-Docs/User-Manual
 toc: true

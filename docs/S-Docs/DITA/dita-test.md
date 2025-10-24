@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: single
 title: DITA
 permalink: /S-Docs/DITA
 toc: true

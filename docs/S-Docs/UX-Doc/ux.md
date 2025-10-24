@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: single
 title: UX Documentation
 permalink: /S-Docs/UX-Doc
 toc: true

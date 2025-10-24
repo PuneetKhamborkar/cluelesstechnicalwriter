@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: Blog1
 permalink: /Blogs/
 toc: true

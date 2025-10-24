@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: single
 title: Feature Documentation
 permalink: /S-Docs/Feature-Doc
 toc: true

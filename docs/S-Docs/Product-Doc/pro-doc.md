@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: single
 title: Product Documentation
 permalink: /S-Docs/Product-Doc
 toc: true
