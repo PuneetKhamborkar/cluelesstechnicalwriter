@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Blog 3
 permalink: /Blogs/
 toc: true
+sidebar:
+    nav: Blogs
 ---
 
 # Diva imbres

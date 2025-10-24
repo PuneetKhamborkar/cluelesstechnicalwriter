@@ -1,7 +1,7 @@
 ---
-layout: collection
+layout: single
 title: Technical Writing University
-permalink: /TWing_Uni
+permalink: /TWing-Uni/
 toc: true
 ---
 Welcome to TWing Uni. It is an online learning portal for budding technical writers to learns new languages, concepts, and bunch of other stuffs.

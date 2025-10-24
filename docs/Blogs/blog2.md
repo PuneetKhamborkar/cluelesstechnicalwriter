@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: single
 title: Blog 2
 permalink: /Blogs/
 toc: true
+sidebar:
+    nav: Blogs
 ---
 
 ## Fontis nec parum sparserat
