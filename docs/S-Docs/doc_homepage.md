@@ -4,7 +4,7 @@ title: Sample Documentation
 permalink: /S-Docs/
 toc: true
 sidebar:
-    nav: "S-docs"
+    nav: S-docs
 ---
 
 ## Learn Different Types of Documentation

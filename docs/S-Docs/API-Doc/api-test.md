@@ -4,7 +4,7 @@ title: API
 permalink: /S-Docs/API-Doc
 toc: true
 sidebar:
-    nav: "S-docs"
+    nav: S-docs
 ---
 # Se limite qui
 
