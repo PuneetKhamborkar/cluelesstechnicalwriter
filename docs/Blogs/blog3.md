@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Blog3
+title: "Blog3"
 permalink: /Blogs/
 toc: true
 sidebar:

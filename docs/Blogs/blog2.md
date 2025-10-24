@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Blog2
-permalink: /Blogs/Blogcast/
+title: "Blog2"
+permalink: /Blogs/
 toc: true
 sidebar:
     nav: "Blogs"
