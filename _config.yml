@@ -54,7 +54,7 @@ include:
 defaults:
   # _posts
   - scope:
-      path: "./docs/Blogs"
+      path: ""
       type: posts
     values:
       layout: single
