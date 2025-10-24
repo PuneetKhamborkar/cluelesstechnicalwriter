@@ -1,12 +1,48 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /About/
+  - title: "TWing Uni"
+    url: /TWing-Uni/
+  - title: "S-Docs"
+    url: /S-Docs/
+  - title: "AI"
+    url: /AI/
+  - title: "Blogs"
+    url: /Blogs/
+  - title: "Beyond TWing"
+    url: /Beyond-TWing/
+
+# S-Docs links
+S-Docs:
+  - title: "S-Docs"
+    children:
+      - title: "API"
+        url: /S-Docs/API-Doc/
+      - title: "Feature Documentation"
+        url: /S-Docs/Feature-Doc/
+      - title: "DITA"
+        url: /S-Docs/DITA/
+      - title: "Grant"
+        url: /S-Docs/Grant-Doc/
+      - title: "Medical Documentation"
+        url: /S-Docs/Medical-Doc/
+      - title: "Product Documentation"
+        url: /S-Docs/Product-Doc/
+      - title: "User Guide"
+        url: /S-Docs/User-Guide/
+      - title: "User Manual"
+        url: /S-Docs/User-Manual/
+      - title: "UX Documentation"
+        url: /S-Docs/UX-Doc/
+
+# Blogs links
+Blogs:
+  - title: "Blogs"
+    children:
+      - title: "Blog1"
+        url: /Blogs/
+      - title: "Blog2"
+        url: /Blogs/
+      - title: "Blog3"
+        url: /Blogs/
