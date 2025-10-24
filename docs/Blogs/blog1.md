@@ -1,6 +1,6 @@
 ---
-layout: single
-title: Blog 1
+layout: archive
+title: Blog1
 permalink: /Blogs/
 toc: true
 sidebar:

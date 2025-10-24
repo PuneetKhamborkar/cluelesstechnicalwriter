@@ -41,8 +41,8 @@ Blogs:
   - title: "Blogs"
     children:
       - title: "Blog1"
-        url: /Blogs/
+        url: /
       - title: "Blog2"
-        url: /Blogs/
+        url: /
       - title: "Blog3"
-        url: /Blogs/
+        url: /
