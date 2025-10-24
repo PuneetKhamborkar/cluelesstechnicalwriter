@@ -35,3 +35,14 @@ S-Docs:
         url: /S-Docs/User-Manual/
       - title: "UX Documentation"
         url: /S-Docs/UX-Doc/
+
+# Blogs links
+Blogs:
+  - title: "Blogs"
+    children:
+      - title: "Blog1"
+        url: /
+      - title: "Blog2"
+        url: /
+      - title: "Blog3"
+        url: /

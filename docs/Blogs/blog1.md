@@ -1,14 +1,13 @@
 ---
 layout: single
-title: Yet Another Technical Writing Blog?
+title: Blog 1
 permalink: /Blogs/
-type: pages
 toc: true
 sidebar:
-  title: "Blog"
-  nav: Blogs
+    nav: "Blogs"
 ---
 
+# Yet Another Technical Writing Blog?
 Do we really need another boring TW blog talking about AI and technical writing, how AI is going replace TWs, how AI is not going to replace TWs, blah blah blah?
 
 ## Yes or No

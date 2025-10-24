@@ -2,11 +2,9 @@
 layout: single
 title: Blog 3
 permalink: /Blogs/
-type: pages
 toc: true
 sidebar:
-  title: "Blog"
-  nav: Blogs
+    nav: "Blogs"
 ---
 
 # Diva imbres

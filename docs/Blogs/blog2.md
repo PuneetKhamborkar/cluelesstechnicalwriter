@@ -2,11 +2,9 @@
 layout: single
 title: Blog 2
 permalink: /Blogs/
-type: pages
 toc: true
 sidebar:
-  title: "Blog"
-  nav: Blogs
+    nav: "Blogs"
 ---
 
 ## Fontis nec parum sparserat
