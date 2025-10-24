@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Blogcast
+title: Blogs
 permalink: /Blogs/
 toc: true
 sidebar:

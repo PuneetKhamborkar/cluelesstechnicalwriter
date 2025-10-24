@@ -4,7 +4,7 @@ title: Product Documentation
 permalink: /S-Docs/Product-Doc
 toc: true
 sidebar:
-    nav: "S-docs"
+    nav: "S-Docs"
 ---
 # Se limite qui
 

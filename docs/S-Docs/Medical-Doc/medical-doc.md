@@ -4,7 +4,7 @@ title: Medical Documentation
 permalink: /S-Docs/Medical-Doc
 toc: true
 sidebar:
-    nav: "S-docs"
+    nav: "S-Docs"
 ---
 # Se limite qui
 

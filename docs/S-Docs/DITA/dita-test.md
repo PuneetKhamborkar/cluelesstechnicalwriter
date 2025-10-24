@@ -4,7 +4,7 @@ title: DITA
 permalink: /S-Docs/DITA
 toc: true
 sidebar:
-    nav: "S-docs"
+    nav: "S-Docs"
 ---
 # Se limite qui
 

@@ -4,7 +4,7 @@ title: User Guide
 permalink: /S-Docs/User-Guide
 toc: true
 sidebar:
-    nav: "S-docs"
+    nav: "S-Docs"
 ---
 # Se limite qui
 
