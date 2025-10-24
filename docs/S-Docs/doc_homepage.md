@@ -1,10 +1,10 @@
 ---
-layout: collection
+layout: single
 title: Sample Documentation
 permalink: /S-Docs/
 toc: true
 sidebar:
-    nav: S-docs
+    nav: "S-Docs"
 ---
 
 ## Learn Different Types of Documentation
