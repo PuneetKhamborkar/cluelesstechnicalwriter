@@ -2,6 +2,9 @@
 layout: collection
 title: Feature Documentation
 permalink: /S-Docs/Feature-Doc
+toc: true
+sidebar:
+    nav: "S-docs"
 ---
 # Se limite qui
 

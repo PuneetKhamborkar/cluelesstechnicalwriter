@@ -2,6 +2,9 @@
 layout: collection
 title: DITA
 permalink: /S-Docs/DITA
+toc: true
+sidebar:
+    nav: "S-docs"
 ---
 # Se limite qui
 

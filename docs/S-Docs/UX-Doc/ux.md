@@ -2,6 +2,9 @@
 layout: collection
 title: UX Documentation
 permalink: /S-Docs/UX-Doc
+toc: true
+sidebar:
+    nav: "S-docs"
 ---
 # Se limite qui
 

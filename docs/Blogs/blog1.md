@@ -1,7 +1,8 @@
 ---
-layout: posts
+layout: default
 title: Yet Another Technical Writing Blog?
 permalink: /Blogs/
+toc: true
 ---
 
 Do we really need another boring TW blog talking about AI and technical writing, how AI is going replace TWs, how AI is not going to replace TWs, blah blah blah?

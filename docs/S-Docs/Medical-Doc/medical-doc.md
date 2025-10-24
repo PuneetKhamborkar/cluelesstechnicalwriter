@@ -2,6 +2,9 @@
 layout: collection
 title: Medical Documentation
 permalink: /S-Docs/Medical-Doc
+toc: true
+sidebar:
+    nav: "S-docs"
 ---
 # Se limite qui
 

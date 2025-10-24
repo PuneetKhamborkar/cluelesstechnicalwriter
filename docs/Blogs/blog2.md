@@ -1,12 +1,13 @@
 ---
-layout: posts
+layout: default
 title: Blog 2
 permalink: /Blogs/
+toc: true
 ---
 
-# Fontis nec parum sparserat
+## Fontis nec parum sparserat
 
-## Parem volenti
+### Parem volenti
 
 Lorem markdownum et leaeque candida domitamque coniugis tergoque roganti. Videt
 domos et suppressa Aegaeas doleas et flebile Venus metuunt

@@ -2,6 +2,9 @@
 layout: collection
 title: User-Manual
 permalink: /S-Docs/User-Manual
+toc: true
+sidebar:
+    nav: "S-docs"
 ---
 # Se limite qui
 

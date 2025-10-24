@@ -2,6 +2,9 @@
 layout: collection
 title: Sample Documentation
 permalink: /S-Docs/
+toc: true
+sidebar:
+    nav: "S-docs"
 ---
 
 ## Learn Different Types of Documentation

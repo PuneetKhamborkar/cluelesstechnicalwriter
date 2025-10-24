@@ -2,6 +2,9 @@
 layout: collection
 title: Grant
 permalink: /S-Docs/Grant-Doc
+toc: true
+sidebar:
+    nav: "S-docs"
 ---
 # Se limite qui
 
