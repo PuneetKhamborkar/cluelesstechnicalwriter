@@ -1,12 +1,10 @@
 ---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: "homepage"
+title: "Nagivate through the world of technical writing with Clueless Technical Writer"
 layout: home
 description: "Clueless Technical Writer Homepage"
 ---
-
-# Nagivate through the world of technical writing with Clueless Technical Writer
 
 Become a world-class technical writer within a next few days. Check out [TWing UNI](https://www.cluelesstechnicalwriter.com/TWing-UNI/) to learn all the cool stuff about technical writer.
 
