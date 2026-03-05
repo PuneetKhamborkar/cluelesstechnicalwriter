@@ -25,6 +25,6 @@ Here, the founder tries to blend the power of AI with technical writing. He goes
 
 These are simple blogs, which the founder writes to keep his touch with the creative writing.
 
-## Beyond TWing
+## Beyond InfoDev
 
 This section is specially for the professional technical writers, who are looking forword transistion from a technical writer to a Business Analyst or a Product Owner role.

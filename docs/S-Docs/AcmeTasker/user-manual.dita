@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="acme-usermanual">
+  <title>AcmeTasker User Manual</title>
+  <body>
+    <p>Welcome to AcmeTasker, the leading task management software.</p>
+    <section>
+      <title>Getting Started</title>
+      <p>Install the application by following the installation guide and create your first task.</p>
+    </section>
+    <section>
+      <title>Features</title>
+      <p>AcmeTasker provides task creation, deadlines, reminders, and team collaboration.</p>
+    </section>
+  </body>
+</topic>

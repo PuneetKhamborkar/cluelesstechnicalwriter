@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: Beyod Technical Writing
-permalink: /Beyond-TW/
+title: Beyond InfoDev
+permalink: /Beyond-InfoDev/
 ---
 
 Bored of Technical Writing?

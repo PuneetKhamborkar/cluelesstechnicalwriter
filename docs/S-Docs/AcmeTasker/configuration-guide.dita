@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="acme-config">
+  <title>AcmeTasker Configuration Guide</title>
+  <taskbody>
+    <section>
+      <title>System Requirements</title>
+      <p>AcmeTasker requires a modern web browser and a server running Node.js or Docker.</p>
+    </section>
+    <section>
+      <title>Setting Up Configuration Files</title>
+      <p>Create <code>config.json</code> in the installation directory and specify database and email settings.</p>
+    </section>
+  </taskbody>
+</task>

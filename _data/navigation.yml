@@ -4,14 +4,19 @@ main:
     url: /About/
   - title: "InfoDev Uni"
     url: /InfoDev-Uni/
+    children:
+      - title: "Markup Comparison"
+        url: /InfoDev-Uni/markup-comparison/
+      - title: "XML & DITA Basics"
+        url: /InfoDev-Uni/xml-dita-basics/
   - title: "S-Docs"
     url: /S-Docs/
   - title: "AI"
     url: /AI/
   - title: "Blogs"
     url: /Blogs/
-  - title: "Beyond TWing"
-    url: /Beyond-TWing/
+  - title: "Beyond InfoDev"
+    url: /Beyond-InfoDev/
 
 # S-Docs links
 S-Docs:
@@ -35,6 +40,26 @@ S-Docs:
         url: /S-Docs/User-Manual/
       - title: "UX Documentation"
         url: /S-Docs/UX-Doc/
+      - title: "AcmeTasker"
+        children:
+          - title: "User Manual"
+            url: /S-Docs/AcmeTasker/user-manual/
+          - title: "Configuration Guide"
+            url: /S-Docs/AcmeTasker/configuration-guide/
+          - title: "REST API"
+            url: /S-Docs/AcmeTasker/rest-api/
+          - title: "SOAP API"
+            url: /S-Docs/AcmeTasker/soap-api/
+          - title: "Release Notes"
+            url: /S-Docs/AcmeTasker/release-notes/
+          - title: "New Feature"
+            url: /S-Docs/AcmeTasker/new-feature/
+          - title: "Quick Start"
+            url: /S-Docs/AcmeTasker/quick-start/
+          - title: "Quick Installation"
+            url: /S-Docs/AcmeTasker/quick-install/
+          - title: "Troubleshooting"
+            url: /S-Docs/AcmeTasker/troubleshooting/
 
 # Blogs links
 Blogs:

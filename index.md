@@ -8,6 +8,6 @@ description: "Clueless Technical Writer Homepage"
 
 Become a world-class technical writer within a next few days. Check out [InfoDev Uni](https://www.cluelesstechnicalwriter.com/InfoDev-Uni/) to learn all the cool stuff about technical writer.
 
-Want to go beyond the profession of Technical Writing? Interested in a Business Analyst or Product Owner role? No need to worry. Headover to [Beyond TWing](https://www.cluelesstechnicalwriter.com/Beyond-TW/) 
+Want to go beyond the profession of Technical Writing? Interested in a Business Analyst or Product Owner role? No need to worry. Headover to [Beyond InfoDev](https://www.cluelesstechnicalwriter.com/Beyond-InfoDev/) 
 
 
