@@ -9,9 +9,9 @@ Clueless Technical Writer is a website born out of curiousity to learn new and c
 
 The website is is majorly segregated in 5 parts.
 
-## TWing UNI
+## InfoDev Uni
 
-TWing UNI stands for Technical Writing University. It consists of the CHEATSHEETS of all the languages and theories learned by the founder. This segment really helps the visiting technical writers to brush-up their skill and get interview ready. It also helps them if they are stuck anywhere in the documetentation process. 
+InfoDev Uni stands for Technical Writing University. It consists of the CHEATSHEETS of all the languages and theories learned by the founder. This segment really helps the visiting technical writers to brush-up their skill and get interview ready. It also helps them if they are stuck anywhere in the documetentation process. 
 
 ## S-Docs
 

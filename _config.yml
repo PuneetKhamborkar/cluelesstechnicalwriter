@@ -45,9 +45,7 @@ sidebar:
   nav:
     - main
     - S-Docs
-    - TWing-Uni
-    - Blogs
-
+  - InfoDev-Uni
 collections:
   Blogs:
     output: true

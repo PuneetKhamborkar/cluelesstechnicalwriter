@@ -6,7 +6,7 @@ layout: home
 description: "Clueless Technical Writer Homepage"
 ---
 
-Become a world-class technical writer within a next few days. Check out [TWing UNI](https://www.cluelesstechnicalwriter.com/TWing-UNI/) to learn all the cool stuff about technical writer.
+Become a world-class technical writer within a next few days. Check out [InfoDev Uni](https://www.cluelesstechnicalwriter.com/InfoDev-Uni/) to learn all the cool stuff about technical writer.
 
 Want to go beyond the profession of Technical Writing? Interested in a Business Analyst or Product Owner role? No need to worry. Headover to [Beyond TWing](https://www.cluelesstechnicalwriter.com/Beyond-TW/) 
 
