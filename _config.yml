@@ -45,7 +45,7 @@ sidebar:
   nav:
     - main
     - S-Docs
-  - InfoDev-Uni
+    - InfoDev-Uni
 collections:
   Blogs:
     output: true
