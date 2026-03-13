@@ -22,13 +22,10 @@ This quick guide covers installing AcmeTasker for both end users and server admi
 ## Server Installation (Linux)
 1. Ensure you have Node.js 14+ and a supported database installed.
 2. Clone the repository: git clone https://github.com/acme/acmetasker.git.
-3. Navigate to the project directory and run 
-pm install.
+3. Navigate to the project directory and run npm install.
 4. Copy config.example.json to config.json and update settings.
-5. Run database migrations: 
-pm run migrate.
-6. Start the server: 
-pm start or use a process manager like PM2.
+5. Run database migrations: npm run migrate.
+6. Start the server: npm start or use a process manager like PM2.
 
 ## Server Installation (Docker)
 1. Pull the latest image: docker pull acmetasker/app:latest.

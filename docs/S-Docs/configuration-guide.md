@@ -48,7 +48,7 @@ Useful environment variables include NODE_ENV, PORT, and ADMIN_EMAIL. For Docker
 
 ## Advanced Configuration
 
-Adjust rate limits, caching, and third-party service integrations in dvanced.json or via the admin panel. Examples include Redis cache settings and OAuth client credentials.
+Adjust rate limits, caching, and third-party service integrations in advanced.json or via the admin panel. Examples include Redis cache settings and OAuth client credentials.
 
 ## Logging Configuration
 

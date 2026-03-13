@@ -50,8 +50,7 @@ Access your profile to change language, timezone, and notification preferences. 
 
 ## Keyboard Shortcuts
 
-Press ? while in the app to display a list of available shortcuts for faster navigation. Common shortcuts include 
- for new task and  to focus the search bar.
+Press ? while in the app to display a list of available shortcuts for faster navigation. Common shortcuts include Ctrl+N for new task and Ctrl+F to focus the search bar.
 
 ## Tips and Tricks
 
@@ -79,8 +78,8 @@ The interface supports multiple languages. Users may select their preferred lang
 
 ## Appendix A: Glossary
 
-- **Task** — A work item tracked in AcmeTasker.
-- **Project** — A collection of related tasks.
+- **Task**: A work item tracked in AcmeTasker.
+- **Project**: A collection of related tasks.
 
 ## Appendix B: Contact Support
 
