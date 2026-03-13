@@ -1,7 +1,7 @@
 ---
 layout: single
 title: AcmeTasker Release Notes
-permalink: /S-Docs/AcmeTasker/release-notes/
+permalink: /S-Docs/release-notes/
 ---
 
 # Release Notes

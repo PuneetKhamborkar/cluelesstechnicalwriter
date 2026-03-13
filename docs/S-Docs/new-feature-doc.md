@@ -1,7 +1,7 @@
 ---
 layout: single
 title: New Feature: Smart Scheduling
-permalink: /S-Docs/AcmeTasker/new-feature/
+permalink: /S-Docs/new-feature/
 ---
 
 # Smart Scheduling

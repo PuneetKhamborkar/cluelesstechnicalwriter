@@ -40,26 +40,26 @@ S-Docs:
         url: /S-Docs/User-Manual/
       - title: "UX Documentation"
         url: /S-Docs/UX-Doc/
-      - title: "AcmeTasker"
+      - title: "AcmeTasker (sample docs)"
         children:
           - title: "User Manual"
-            url: /S-Docs/AcmeTasker/user-manual/
+            url: /S-Docs/user-manual/
           - title: "Configuration Guide"
-            url: /S-Docs/AcmeTasker/configuration-guide/
+            url: /S-Docs/configuration-guide/
           - title: "REST API"
-            url: /S-Docs/AcmeTasker/rest-api/
+            url: /S-Docs/rest-api/
           - title: "SOAP API"
-            url: /S-Docs/AcmeTasker/soap-api/
+            url: /S-Docs/soap-api/
           - title: "Release Notes"
-            url: /S-Docs/AcmeTasker/release-notes/
+            url: /S-Docs/release-notes/
           - title: "New Feature"
-            url: /S-Docs/AcmeTasker/new-feature/
+            url: /S-Docs/new-feature/
           - title: "Quick Start"
-            url: /S-Docs/AcmeTasker/quick-start/
+            url: /S-Docs/quick-start/
           - title: "Quick Installation"
-            url: /S-Docs/AcmeTasker/quick-install/
+            url: /S-Docs/quick-install/
           - title: "Troubleshooting"
-            url: /S-Docs/AcmeTasker/troubleshooting/
+            url: /S-Docs/troubleshooting/
 
 # Blogs links
 Blogs:

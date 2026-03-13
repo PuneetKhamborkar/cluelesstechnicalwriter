@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Troubleshooting Guide
-permalink: /S-Docs/AcmeTasker/troubleshooting/
+permalink: /S-Docs/troubleshooting/
 ---
 
 # Troubleshooting

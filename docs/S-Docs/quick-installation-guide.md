@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Quick Installation Guide
-permalink: /S-Docs/AcmeTasker/quick-install/
+permalink: /S-Docs/quick-install/
 ---
 
 # Installation

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Quick Start Guide
-permalink: /S-Docs/AcmeTasker/quick-start/
+permalink: /S-Docs/quick-start/
 ---
 
 # Quick Start
