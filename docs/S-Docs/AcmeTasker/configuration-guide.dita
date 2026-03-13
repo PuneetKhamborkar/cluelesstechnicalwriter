@@ -1,15 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="acme-config">
-  <title>AcmeTasker Configuration Guide</title>
-  <taskbody>
-    <section>
-      <title>System Requirements</title>
-      <p>AcmeTasker requires a modern web browser and a server running Node.js or Docker.</p>
-    </section>
-    <section>
-      <title>Setting Up Configuration Files</title>
-      <p>Create <code>config.json</code> in the installation directory and specify database and email settings.</p>
-    </section>
-  </taskbody>
+ <title>AcmeTasker Configuration Guide</title>
+ <taskbody>
+ <section>
+ <title>Overview</title>
+ <p>This guide explains how to configure AcmeTasker for production and development environments. It covers file-based settings, environment variables, and advanced options used by administrators and deployers.</p>
+ </section>
+ <section>
+ <title>Prerequisites</title>
+ <p>Before configuring, ensure Node.js (v14+) and a supported database (MySQL or PostgreSQL) are installed. Docker images are available for containerized deployments.</p>
+ </section>
+ <section>
+ <title>Configuration File Structure</title>
+ <p>The main configuration file <code>config.json</code> contains sections for database, email, authentication, and logging.</p>
+ <example>
+ <title>Sample config.json</title>
+ <p>{<br/> \database\: {<br/> \host\: \localhost\,<br/> \port\: 3306,<br/> \user\: \acme_user\,<br/> \password\: \secret\<br/> },<br/> \email\: {<br/> \smtpHost\: \smtp.example.com\,<br/> \smtpPort\: 587<br/> }<br/>}</p>
+ </example>
+ </section>
+ <section>
+ <title>Database Setup</title>
+ <p>Create the database schema using the provided <code>schema.sql</code> script or run <code>npm run migrate</code>. Connection pooling settings can be adjusted in <code>db.pool</code>.</p>
+ </section>
+ <section>
+ <title>Email and Notifications</title>
+ <p>Configure SMTP settings for sending notifications. Optionally integrate with SendGrid or Mailgun via API keys. TLS and authentication options are configurable.</p>
+ </section>
+ <section>
+ <title>Environment Variables</title>
+ <p>Useful environment variables include <code>NODE_ENV</code>, <code>PORT</code>, and <code>ADMIN_EMAIL</code>. For Docker, set these in the container environment or compose file.</p>
+ </section>
+ <section>
+ <title>Advanced Configuration</title>
+ <p>Adjust rate limits, caching, and third-party service integrations in <code>advanced.json</code> or via the admin panel. Examples include Redis cache settings and OAuth client credentials.</p>
+ </section>
+ <section>
+ <title>Logging Configuration</title>
+ <p>Specify log levels and output destinations (console, file, syslog) in the logging section. Use JSON format for compatibility with log aggregation tools.</p>
+ </section>
+ <section>
+ <title>Load Balancing &amp; Clustering</title>
+ <p>For high availability, deploy multiple application instances behind a load balancer. Use a shared Redis instance for session storage and sticky sessions if required.</p>
+ </section>
+ <section>
+ <title>Security Settings</title>
+ <p>Enable HTTPS, configure the <code>sessionSecret</code>, and set password complexity rules. Disable local signup if using SSO providers such as OAuth2 or SAML.</p>
+ </section>
+ <section>
+ <title>Backup Settings</title>
+ <p>Configure automated backups by specifying database dump commands and retention policies. Backups can be stored on S3 or network storage.</p>
+ </section>
+ <section>
+ <title>Example Profiles</title>
+ <p>Different profiles (development, staging, production) can be maintained in <code>config.dev.json</code> and <code>config.prod.json</code>. The application selects profile based on <code>NODE_ENV</code>.</p>
+ </section>
+ <section>
+ <title>Troubleshooting Configuration</title>
+ <p>If the application fails to start, check log files under <code>/logs</code> and verify that the configuration file is valid JSON. Common issues include missing fields and incorrect credentials.</p>
+ </section>
+ <section>
+ <title>Contact Support</title>
+ <p>For assistance with configuration, contact support@acmetasker.com with your config file attached. Provide error logs and environment details for faster resolution.</p>
+ </section>
+ </taskbody>
 </task>
