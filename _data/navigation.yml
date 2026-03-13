@@ -22,24 +22,6 @@ main:
 S-Docs:
   - title: "S-Docs"
     children:
-      - title: "API"
-        url: /S-Docs/API-Doc/
-      - title: "Feature Documentation"
-        url: /S-Docs/Feature-Doc/
-      - title: "DITA"
-        url: /S-Docs/DITA/
-      - title: "Grant"
-        url: /S-Docs/Grant-Doc/
-      - title: "Medical Documentation"
-        url: /S-Docs/Medical-Doc/
-      - title: "Product Documentation"
-        url: /S-Docs/Product-Doc/
-      - title: "User Guide"
-        url: /S-Docs/User-Guide/
-      - title: "User Manual"
-        url: /S-Docs/User-Manual/
-      - title: "UX Documentation"
-        url: /S-Docs/UX-Doc/
       - title: "AcmeTasker (sample docs)"
         children:
           - title: "User Manual"
@@ -64,10 +46,3 @@ S-Docs:
 # Blogs links
 Blogs:
   - title: "Blogs"
-    children:
-      - title: "Blog1"
-        url: /Blogs/
-      - title: "Blog2"
-        url: /Blogs/
-      - title: "Blog3"
-        url: /Blogs/
