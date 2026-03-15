@@ -2,6 +2,8 @@
 layout: single
 title: S-Docs Introduction
 permalink: /S-Docs/introduction/
+toc: true
+sidebar: nav
 ---
 
 # Introduction to S-Docs
@@ -10,9 +12,11 @@ S-Docs is a sample documentation collection designed to showcase how you can str
 
 ## On this page
 
-- [What is S-Docs?](#what-is-s-docs)
-- [Sample documentation included](#sample-documentation-included)
-- [How to use these docs](#how-to-use-these-docs)
+- [Introduction to S-Docs](#introduction-to-s-docs)
+  - [On this page](#on-this-page)
+  - [What is S-Docs?](#what-is-s-docs)
+  - [Sample documentation included](#sample-documentation-included)
+  - [How to use these docs](#how-to-use-these-docs)
 
 ## What is S-Docs?
 

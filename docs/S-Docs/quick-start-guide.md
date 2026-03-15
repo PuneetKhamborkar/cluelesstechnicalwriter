@@ -2,6 +2,8 @@
 layout: single
 title: Quick Start Guide
 permalink: /S-Docs/quick-start/
+toc: true
+sidebar: nav
 ---
 
 # Quick Start

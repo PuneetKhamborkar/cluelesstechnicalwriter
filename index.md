@@ -4,6 +4,8 @@
 title: "Nagivate through the world of technical writing with Clueless Technical Writer"
 layout: home
 description: "Clueless Technical Writer Homepage"
+toc: false
+sidebar: false
 ---
 
 Become a world-class technical writer within a next few days. Check out [InfoDev Uni](https://www.cluelesstechnicalwriter.com/InfoDev-Uni/) to learn all the cool stuff about technical writer.

@@ -2,6 +2,8 @@
 layout: single
 title: New Feature: Smart Scheduling
 permalink: /S-Docs/new-feature/
+toc: true
+sidebar: nav
 ---
 
 # Smart Scheduling

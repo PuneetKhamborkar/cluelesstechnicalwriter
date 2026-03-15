@@ -2,6 +2,8 @@
 layout: single
 title: XML & DITA Basics
 permalink: /InfoDev-Uni/xml-dita-basics/
+toc: true
+sidebar: nav
 ---
 
 # Using XML and DITA

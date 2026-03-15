@@ -2,6 +2,8 @@
 layout: collection
 title: Beyond InfoDev
 permalink: /Beyond-InfoDev/
+toc: true
+sidebar: nav
 ---
 
 Bored of Technical Writing?
