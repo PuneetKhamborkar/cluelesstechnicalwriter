@@ -8,6 +8,11 @@ sidebar:
 ---
 Welcome to InfoDev Uni. It is an online learning portal for budding technical writers to learns new languages, concepts, and bunch of other stuffs.
 
+## On this page
+
+- [Languages](#languages)
+- [Concepts](#concepts)
+
 ## Languages
 
 ### Markdown

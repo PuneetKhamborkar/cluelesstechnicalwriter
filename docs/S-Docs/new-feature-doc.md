@@ -6,6 +6,19 @@ permalink: /S-Docs/new-feature/
 
 # Smart Scheduling
 
+## On this page
+
+- [Overview](#overview)
+- [Configuration](#configuration)
+- [Calendar Integration](#calendar-integration)
+- [Using Smart Scheduling](#using-smart-scheduling)
+- [Examples](#examples)
+- [User Interface](#user-interface)
+- [API Support](#api-support)
+- [Troubleshooting](#troubleshooting)
+- [Rollout Notes](#rollout-notes)
+- [Future Enhancements](#future-enhancements)
+
 AcmeTasker now includes a Smart Scheduling feature that automatically suggests optimal times for tasks based on your calendar and priorities. This document describes the feature in detail, including configuration, usage examples, and troubleshooting tips.
 
 ## Overview

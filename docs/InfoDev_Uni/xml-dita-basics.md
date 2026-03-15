@@ -6,6 +6,17 @@ permalink: /InfoDev-Uni/xml-dita-basics/
 
 # Using XML and DITA
 
+## On this page
+
+- [Basic XML Example](#basic-xml-example)
+- [DITA Topic Example](#dita-topic-example)
+- [Common DITA Elements](#common-dita-elements)
+- [DITA Maps](#dita-maps)
+- [Working with DITA](#working-with-dita)
+- [Advanced Features](#advanced-features)
+- [Tools and Workflow](#tools-and-workflow)
+- [Best Practices](#best-practices)
+
 XML (eXtensible Markup Language) is a general-purpose markup language that uses angle-bracket syntax to represent hierarchical data. DITA (Darwin Information Typing Architecture) is an XML application designed specifically for technical documentation.
 
 ## Basic XML Example
@@ -65,7 +76,7 @@ Maps control navigation and can include metadata, branches, and conditional proc
 ## Advanced Features
 - **Conref** (content reference): reuse chunks of content across topics.
 - **Keyrefs**: reference topics or images by key.
-- **Conditional processing**: include or exclude content based on attributes like udience or product.
+- **Conditional processing**: include or exclude content based on attributes like audience or product.
 
 ## Tools and Workflow
 - **DITA Open Toolkit (DITA-OT)**: open-source processor for publishing.

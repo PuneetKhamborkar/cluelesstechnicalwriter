@@ -6,6 +6,17 @@ permalink: /S-Docs/troubleshooting/
 
 # Troubleshooting
 
+## On this page
+
+- [Application Won't Start](#application-wont-start)
+- [Cannot Log In](#cannot-log-in)
+- [API Returns 401 Unauthorized](#api-returns-401-unauthorized)
+- [Tasks Not Syncing](#tasks-not-syncing)
+- [Installation Errors](#installation-errors)
+- [Performance Issues](#performance-issues)
+- [Mobile App Issues](#mobile-app-issues)
+- [Email Notifications Not Sent](#email-notifications-not-sent)
+
 This guide helps you resolve common problems encountered while using or installing AcmeTasker.
 
 ## Application Won't Start

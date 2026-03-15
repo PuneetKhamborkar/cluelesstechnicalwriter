@@ -24,6 +24,8 @@ S-Docs:
     children:
       - title: "AcmeTasker (sample docs)"
         children:
+          - title: "Introduction"
+            url: /S-Docs/introduction/
           - title: "User Manual"
             url: /S-Docs/user-manual/
           - title: "Configuration Guide"

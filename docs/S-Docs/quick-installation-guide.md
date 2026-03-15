@@ -6,6 +6,15 @@ permalink: /S-Docs/quick-install/
 
 # Installation
 
+## On this page
+
+- [End User (Desktop)](#end-user-desktop)
+- [End User (Mobile)](#end-user-mobile)
+- [Server Installation (Linux)](#server-installation-linux)
+- [Server Installation (Docker)](#server-installation-docker)
+- [Post-installation](#post-installation)
+- [Troubleshooting Installation](#troubleshooting-installation)
+
 This quick guide covers installing AcmeTasker for both end users and server administrators.
 
 ## End User (Desktop)

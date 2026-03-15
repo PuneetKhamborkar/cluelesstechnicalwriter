@@ -6,6 +6,28 @@ permalink: /S-Docs/user-manual/
 
 # AcmeTasker User Manual
 
+## On this page
+
+- [Introduction](#introduction)
+- [System Requirements](#system-requirements)
+- [Installation Summary](#installation-summary)
+- [Getting Started](#getting-started)
+- [Interface Overview](#interface-overview)
+- [Creating and Managing Tasks](#creating-and-managing-tasks)
+- [Projects and Boards](#projects-and-boards)
+- [Collaboration Features](#collaboration-features)
+- [Notifications](#notifications)
+- [Settings and Preferences](#settings-and-preferences)
+- [Keyboard Shortcuts](#keyboard-shortcuts)
+- [Tips and Tricks](#tips-and-tricks)
+- [Accessibility](#accessibility)
+- [Mobile App](#mobile-app)
+- [Administration](#administration)
+- [Backup and Restore](#backup-and-restore)
+- [Localization](#localization)
+- [Appendix A: Glossary](#appendix-a-glossary)
+- [Appendix B: Contact Support](#appendix-b-contact-support)
+
 Welcome to AcmeTasker, the leading task management software designed for teams of all sizes. This document serves as the official user manual, providing comprehensive instructions on how to use the application and its features.
 
 ## Introduction

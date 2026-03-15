@@ -6,6 +6,16 @@ permalink: /S-Docs/release-notes/
 
 # Release Notes
 
+## On this page
+
+- [Version 1.2.0 (2025-12-01)](#version-120-2025-12-01)
+- [Version 1.1.5 (2025-08-15)](#version-115-2025-08-15)
+- [Version 1.1.0 (2025-04-10)](#version-110-2025-04-10)
+- [Version 1.0.0 (2024-10-01)](#version-100-2024-10-01)
+- [How to read these notes](#how-to-read-these-notes)
+- [Upgrade instructions](#upgrade-instructions)
+- [Known Issues](#known-issues)
+
 ## Version 1.2.0 (2025-12-01)
 - Added new REST endpoint for managing tags.
 - Improved performance on task listing by paginating database queries.

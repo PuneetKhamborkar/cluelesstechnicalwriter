@@ -6,9 +6,16 @@ permalink: /InfoDev-Uni/markup-comparison/
 
 # Markup Language Comparison
 
-This document compares **HTML**, **Markdown**, **Asciidoc**, and **ReStructuredText (ReST)** syntax for common elements. Each language has its strengths and typical use cases; choose the one that fits your tooling and audience.
+## On this page
 
-## Overview
+- [Overview](#overview)
+- [Syntax Comparison Table](#syntax-comparison-table)
+- [Example Table in Markdown](#example-table-in-markdown)
+- [Block Elements](#block-elements)
+- [Footnotes and References](#footnotes-and-references)
+- [Pros & Cons](#pros--cons)
+
+This document compares **HTML**, **Markdown**, **Asciidoc**, and **ReStructuredText (ReST)** syntax for common elements. Each language has its strengths and typical use cases; choose the one that fits your tooling and audience.
 
 - **HTML** is the standard markup for web pages; verbose but highly expressive.
 - **Markdown** is lightweight and easy to read in plain text, popular on GitHub and many CMSs.
@@ -48,7 +55,7 @@ All four syntaxes support paragraphs separated by blank lines. HTML requires <p>
 ## Footnotes and References
 
 - **Markdown:** limited support, often using extensions (e.g., [^1]).
-- **Asciidoc:** built-in footnotes using ootnote:[text].
+- **Asciidoc:** built-in footnotes using footnote:[text].
 - **ReST:** uses [1]_ notation with a corresponding footnote definition.
 
 ## Pros &amp; Cons
