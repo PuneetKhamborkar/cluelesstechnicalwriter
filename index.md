@@ -9,31 +9,29 @@ keywords: "technical writing training, documentation guide, API docs, Jekyll doc
 
 # Welcome to InfoDev Uni
 
-InfoDev Uni by Clueless Technical Writer is your practical learning hub for technical writing, documentation authoring, and career upskilling in the tech industry.
+Welcome to InfoDev Uni, the fast-track resource for practical technical writing and documentation delivery. This site is designed for people who want to write fewer pages and deliver more value faster.
 
-- Learn structured writing with Markdown, XML/DITA, and modern docs workflows.
-- Study full sample projects like AcmeTasker S-Docs: user manuals, API references, release notes, installation & troubleshooting guides.
-- Discover career pathways from technical writer to Business Analyst and Product Owner.
+- Master crisp, user-focused documentation with ready-to-use templates.
+- Follow a real implementation walkthrough (AcmeTasker S-Docs) to see what good docs look like.
+- Build a professional portfolio that helps you move toward product or business analysis roles.
 
-## Explore core sections
+## Navigate with confidence
 
-- **InfoDev Uni:** Cheat sheets, markup comparisons, and structured authoring fundamentals.
-- **S-Docs:** Real-world documentation examples built with Jekyll + Minimal Mistakes.
-- **Beyond InfoDev:** Professional growth resources for technical writers.
+- **InfoDev Uni** — the learning library for markup languages, authoring methods, and documentation strategy.
+- **S-Docs** — complete sample docs, from user manuals to APIs and release notes.
+- **Beyond InfoDev** — next-step career paths for technical communicators.
 
-## Why this site helps AI and SEO
+## What you’ll get from this site
 
-- Content is structured for humans and search engines with clear headings and keyword-rich topic sections.
-- Deep links and organized documentation improve crawling and discoverability.
-- Practical examples and reusable patterns support prompt engineering and AI-assisted writing workflows.
+- Practical, in-context writing examples based on real-world scenarios.
+- Consistent structure, page-level navigation, and SEO-ready content patterns.
+- A self-guided path from beginner writer to cross-functional contributor.
 
-## Get started
+## Start here
 
-Explore:
+- [Explore InfoDev Uni](https://www.cluelesstechnicalwriter.com/InfoDev-Uni/)
+- [Explore S-Docs](https://www.cluelesstechnicalwriter.com/S-Docs/)
+- [Explore Beyond InfoDev](https://www.cluelesstechnicalwriter.com/Beyond-InfoDev/)
 
-- [InfoDev Uni](https://www.cluelesstechnicalwriter.com/InfoDev-Uni/)
-- [S-Docs](https://www.cluelesstechnicalwriter.com/S-Docs/)
-- [Beyond InfoDev](https://www.cluelesstechnicalwriter.com/Beyond-InfoDev/)
-
-For contributors and AI tooling, the complete source structure is in the repository and designed for easy indexing and generative content pipelines.
+Get new updates by revisiting this page as the library grows.
 

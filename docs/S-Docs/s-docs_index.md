@@ -8,31 +8,37 @@ sidebar: nav
 
 # S-Docs Home
 
-Welcome to the S-Docs home page. This section is a dedicated landing page for the AcmeTasker sample documentation collection.
+Welcome to the S-Docs project hub, where concepts become polished documentation pieces. This landing page is your gateway to a complete example documentation set that you can copy and adapt instantly.
 
 ## On this page
 
-- [About S-Docs](#about-s-docs)
-- [Included documentation](#included-documentation)
-- [How to navigate](#how-to-navigate)
+- [Why S-Docs matters](#why-s-docs-matters)
+- [What’s included](#whats-included)
+- [How to use this example](#how-to-use-this-example)
 
-## About S-Docs
+## Why S-Docs matters
 
-S-Docs is a sample docs space demonstrating how to build technical documentation with Jekyll and the Minimal Mistakes theme.
+S-Docs shows a practical approach to creating product documentation with standard patterns, accurate metadata, and readable layout. It’s built as a real-world demo so you can accelerate your own project setup.
 
-## Included documentation
+## What’s included
 
 - User Manual
 - Configuration Guide
-- REST API
-- SOAP API
+- REST API Reference
+- SOAP API Reference
 - Release Notes
-- New Feature
-- Quick Start
-- Quick Installation
-- Troubleshooting
-- Introduction
+- New Feature Deep Dive
+- Quick Start + Quick Installation Guides
+- Troubleshooting Guide
+- Introductory S-Docs overview
 
-## How to navigate
+## How to use this example
 
-Use the left sidebar to discover and jump between pages. Each page includes an "On this page" section for quick in-page navigation.
+1. Start at the S-Docs home page and review the “On this page” links.
+2. Use the sidebar categories to navigate each artifact.
+3. Copy structure and headings into your own documentation repository.
+4. Keep URLs consistent with `permalink` values for fast deployment.
+
+## Pro tip
+
+For a clean authoring process, manage your nav items in `_data/navigation.yml` and maintain equal `sidebar: nav` + `toc: true` across content pages, while keeping homepage navigation disabled for clarity.
