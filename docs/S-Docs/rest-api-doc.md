@@ -10,17 +10,17 @@ sidebar: S-Docs
 
 The AcmeTasker REST API allows programmatic access to tasks, projects, and user data. All endpoints are under the base URL:
 
-`
+```
 https://api.acmetasker.com/v1
-`
+```
 
 ## Authentication
 
 Requests require an API key provided in the Authorization header:
 
-`
+```
 Authorization: Bearer YOUR_API_KEY
-`
+```
 
 ### Error Codes
 
@@ -48,51 +48,51 @@ Fetch a list of tasks.
 **Query Parameters:** status, assignee, projectId
 
 **Response:** 200 OK
-`json
+```json
 {
   "tasks": [
     {"id": 1, "title": "Sample task", "status": "open"}
   ],
   "pagination": {"limit":25, "offset":0, "total":100}
 }
-`
+```
 
 ### POST /tasks
 
 Create a new task.
 
 **Body:**
-`json
+```json
 {
   "title": "New task",
   "description": "Details here",
   "dueDate": "2024-01-01",
   "projectId": 5
 }
-`
+```
 
 **Response:** 201 Created
-`json
+```json
 {"id": 42, "message": "Task created"}
-`
+```
 
 ### GET /tasks/{id}
 
 Retrieve a single task by ID.
 
 **Response:** 200 OK
-`json
+```json
 {"id":42, "title":"New task", "status":"open"}
-`
+```
 
 ### PUT /tasks/{id}
 
 Update an existing task. Submit only fields to change.
 
 **Body example:**
-`json
+```json
 {"status": "completed"}
-`
+```
 
 ### DELETE /tasks/{id}
 
@@ -118,9 +118,9 @@ Requests are limited to 100 per minute per API key. Exceeding this returns 429 T
 
 ## Example cURL
 
-`
+```
 curl -H "Authorization: Bearer TOKEN" \
   https://api.acmetasker.com/v1/tasks?limit=10
-`
+```
 
 Further details and SDKs for Python, JavaScript, and Java are available on the developer portal.

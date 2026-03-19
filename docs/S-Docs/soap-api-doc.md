@@ -10,9 +10,9 @@ sidebar: S-Docs
 
 The SOAP service uses XML-based messages over HTTP. The WSDL is available at:
 
-`
+```
 https://api.acmetasker.com/soap?wsdl
-`
+```
 
 ## Namespaces
 
@@ -23,7 +23,7 @@ https://api.acmetasker.com/soap?wsdl
 ### GetTasks
 
 **Request:**
-`xml
+```xml
 <soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\" xmlns:tsk=\"http://acmetasker.com/soap\">
   <soapenv:Header/>
   <soapenv:Body>
@@ -32,10 +32,10 @@ https://api.acmetasker.com/soap?wsdl
     </tsk:GetTasksRequest>
   </soapenv:Body>
 </soapenv:Envelope>
-`
+```
 
 **Response:**
-`xml
+```xml
 <soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\">
   <soapenv:Body>
     <tsk:GetTasksResponse>
@@ -46,7 +46,7 @@ https://api.acmetasker.com/soap?wsdl
     </tsk:GetTasksResponse>
   </soapenv:Body>
 </soapenv:Envelope>
-`
+```
 
 ### CreateTask
 
@@ -70,11 +70,11 @@ The WSDL defines complex types such as Task, User, and Project with relevant fie
 
 ## Authentication
 
-API key passed as a SOAP header element <tsk:ApiKey>YOUR_KEY</tsk:ApiKey>.
+API key passed as a SOAP header element `<tsk:ApiKey>YOUR_KEY</tsk:ApiKey>`.
 
 ## Sample WSDL snippet
 
-`xml
+```xml
 <definitions xmlns=\"http://schemas.xmlsoap.org/wsdl/\" ...>
   <types>
     <xsd:schema targetNamespace=\"http://acmetasker.com/soap\">
@@ -87,7 +87,7 @@ API key passed as a SOAP header element <tsk:ApiKey>YOUR_KEY</tsk:ApiKey>.
     </xsd:schema>
   </types>
 </definitions>
-`
+```
 
 Clients should generate stubs using tools like wsdl2java or svcutil.
 
