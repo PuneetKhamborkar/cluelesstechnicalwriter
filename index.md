@@ -1,15 +1,15 @@
 ---
-layout: home
-title: "InfoDev Uni | Learn Technical Writing, Documentation, and ICT Career Paths"
+layout: single
+title: "Clueless Technical Writer"
 description: "Clueless Technical Writer: free guides, tutorials, and sample docs to master technical writing, API docs, and career transition to business analysis or product ownership."
 toc: false
 sidebar: false
 keywords: "technical writing training, documentation guide, API docs, Jekyll docs, InfoDev Uni, business analyst transition, product owner career"
 ---
 
-# Welcome to InfoDev Uni
+## Welcome to cluelesstechnicalwriter.com
 
-Welcome to InfoDev Uni, the fast-track resource for practical technical writing and documentation delivery. This site is designed for people who want to write fewer pages and deliver more value faster.
+Welcome to cluelesstechnicalwriter.com, the fast-track resource for practical technical writing and documentation delivery. This site is designed for people who want to write fewer pages and deliver more value faster.
 
 - Master crisp, user-focused documentation with ready-to-use templates.
 - Follow a real implementation walkthrough (AcmeTasker S-Docs) to see what good docs look like.
