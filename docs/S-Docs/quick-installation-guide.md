@@ -3,7 +3,7 @@ layout: single
 title: Quick Installation Guide
 permalink: /S-Docs/quick-install/
 toc: true
-sidebar: nav
+sidebar: S-Docs
 ---
 
 # Installation

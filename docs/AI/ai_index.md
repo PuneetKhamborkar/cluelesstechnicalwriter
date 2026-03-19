@@ -3,7 +3,7 @@ layout: single
 title: "AI Resources"
 permalink: /AI/
 toc: true
-sidebar: nav
+sidebar: AI
 ---
 
 # AI Resources for Technical Writing

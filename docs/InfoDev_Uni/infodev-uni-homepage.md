@@ -3,8 +3,7 @@ layout: single
 title: InfoDev Uni
 permalink: /InfoDev-Uni/
 toc: true
-sidebar:
-    nav: "InfoDev-Uni"
+sidebar: InfoDev_Uni
 ---
 Welcome to InfoDev Uni. It is an online learning portal for budding technical writers to learns new languages, concepts, and bunch of other stuffs.
 

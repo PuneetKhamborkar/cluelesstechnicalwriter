@@ -3,7 +3,7 @@ layout: single
 title: S-Docs Introduction
 permalink: /S-Docs/introduction/
 toc: true
-sidebar: nav
+sidebar: S-Docs
 ---
 
 # Introduction to S-Docs

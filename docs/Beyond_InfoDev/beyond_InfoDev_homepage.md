@@ -4,7 +4,7 @@ title: Beyond InfoDev - Tech Writing Career Paths
 permalink: /Beyond-InfoDev/
 description: "Beyond InfoDev helps technical writers transition into business analysis, product management, and leadership roles with practical advice and career strategies."
 toc: true
-sidebar: nav
+sidebar: Beyond_InfoDev
 keywords: "technical writer career transition, business analyst career, product owner path, technical writing to BA, career growth, InfoDev"
 ---
 

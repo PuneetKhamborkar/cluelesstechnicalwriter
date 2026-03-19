@@ -3,6 +3,7 @@ layout: single
 title: About InfoDev Uni
 permalink: /About/
 toc: true
+sidebar: About
 ---
 
 Clueless Technical Writer is a practical learning portal for early-career documentation professionals and career-transitioners. Designed by a technical writer who started with the same questions you have now, this site combines structured guide content, real sample docs, and AI-assisted workflow references.

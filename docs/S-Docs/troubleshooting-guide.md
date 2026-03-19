@@ -3,7 +3,7 @@ layout: single
 title: Troubleshooting Guide
 permalink: /S-Docs/troubleshooting/
 toc: true
-sidebar: nav
+sidebar: S-Docs
 ---
 
 # Troubleshooting

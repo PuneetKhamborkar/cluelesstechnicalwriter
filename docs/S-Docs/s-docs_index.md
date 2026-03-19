@@ -3,7 +3,7 @@ layout: single
 title: S-Docs Home
 permalink: /S-Docs/
 toc: true
-sidebar: nav
+sidebar: S-Docs
 ---
 
 # S-Docs Home

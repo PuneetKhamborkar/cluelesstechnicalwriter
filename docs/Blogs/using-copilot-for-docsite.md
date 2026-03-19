@@ -4,7 +4,7 @@ title: "How I Used GitHub Copilot to Build My Tech Docs Site"
 permalink: /Blogs/using-copilot-for-docsite/
 date: 2026-03-19
 toc: true
-sidebar: nav
+sidebar: Blogs
 ---
 
 # I’m using Copilot to set up my docsite

@@ -3,7 +3,7 @@ layout: single
 title: AcmeTasker Configuration Guide
 permalink: /S-Docs/configuration-guide/
 toc: true
-sidebar: nav
+sidebar: S-Docs
 ---
 
 # AcmeTasker Configuration Guide

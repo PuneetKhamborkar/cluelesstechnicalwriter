@@ -3,7 +3,7 @@ layout: single
 title: Markup Language Comparison
 permalink: /InfoDev-Uni/markup-comparison/
 toc: true
-sidebar: nav
+sidebar: InfoDev_Uni
 ---
 
 # Markup Language Comparison

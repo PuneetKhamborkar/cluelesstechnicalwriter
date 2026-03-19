@@ -1,10 +1,16 @@
-{% assign sidebar_config = site.sidebar %}
-{% if page.sidebar %}
+{% assign sidebar_config = nil %}
+{% if page.sidebar == false %}
+  {% assign sidebar_config = nil %}
+{% elsif page.sidebar %}
   {% if page.sidebar == "nav" or page.sidebar == true %}
     {% assign sidebar_config = site.sidebar %}
+  {% elsif page.sidebar != nil and site.data.navigation[page.sidebar] %}
+    {% assign sidebar_config = site.data.navigation[page.sidebar] %}
   {% else %}
     {% assign sidebar_config = page.sidebar %}
   {% endif %}
+{% elsif site.sidebar %}
+  {% assign sidebar_config = site.sidebar %}
 {% endif %}
 
 {% if page.author_profile or layout.author_profile or sidebar_config %}
@@ -24,11 +30,7 @@
       {% if sidebar_config.nav %}
         {% include nav_list nav=sidebar_config.nav %}
       {% elsif sidebar_config instanceof Array %}
-        {% for s in sidebar_config %}
-          {% if s.nav %}
-            {% include nav_list nav=s.nav %}
-          {% endif %}
-        {% endfor %}
+        {% include nav_list nav=sidebar_config %}
       {% endif %}
     {% endif %}
   </div>

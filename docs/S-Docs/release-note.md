@@ -3,7 +3,7 @@ layout: single
 title: AcmeTasker Release Notes
 permalink: /S-Docs/release-notes/
 toc: true
-sidebar: nav
+sidebar: S-Docs
 ---
 
 # Release Notes

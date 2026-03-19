@@ -3,7 +3,7 @@ layout: single
 title: AcmeTasker User Manual
 permalink: /S-Docs/user-manual/
 toc: true
-sidebar: nav
+sidebar: S-Docs
 ---
 
 # AcmeTasker User Manual
