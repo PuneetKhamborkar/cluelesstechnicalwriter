@@ -29,10 +29,8 @@ InfoDev_Uni:
 
 # S-Docs links
 S-Docs:
-  - title: "S-Docs Home"
-    url: /S-Docs/
   - title: "Introduction"
-    url: /S-Docs/introduction/
+    url: /S-Docs/
   - title: "User Manual"
     url: /S-Docs/user-manual/
   - title: "Configuration Guide"

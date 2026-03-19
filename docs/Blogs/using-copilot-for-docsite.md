@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I Used GitHub Copilot to Build My Tech Docs Site"
+title: How I Used GitHub Copilot to Build My Tech Docs Site
 permalink: /Blogs/using-copilot-for-docsite/
 date: 2026-03-19
 toc: true
