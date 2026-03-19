@@ -40,12 +40,12 @@ DITA is an application of XML for technical content. A minimal topic example:
 ```
 
 ### Common DITA Elements
-- \<title>\: the title of the topic.
-- \<body>\: contains the content, typically \<p>\, \<section>\, \<task>\, or \<concept>\.
-- \<section>\: a logical subsection within the body.
+- \<title>: the title of the topic.
+- \<body>: contains the content, typically \<p>, \<section> , \<task>, or \<concept>.
+- \<section>: a logical subsection within the body.
 
 ## DITA Maps
-A DITA map (\<code>.ditamap\</code>\) assembles topics into a publication. Example:
+A DITA map (\<code>.ditamap\</code>) assembles topics into a publication. Example:
 
 ```xml
 <map>
