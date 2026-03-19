@@ -1,19 +1,39 @@
-{% if page.author_profile or layout.author_profile or page.sidebar %}
-  <div class="sidebar sticky">
-  {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
-    {% for s in page.sidebar %}
-      {% if s.image %}
-        <img src="{{ s.image | relative_url }}"
-             alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
-      {% endif %}
-      {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
-      {% if s.text %}{{ s.text | markdownify }}{% endif %}
-      {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
-    {% endfor %}
-    {% if page.sidebar.nav %}
-      {% include nav_list nav=page.sidebar.nav %}
-    {% endif %}
+{% assign sidebar_config = nil %}
+{% if page.url == "/" %}
+  {% assign sidebar_config = nil %}
+{% elsif page.sidebar == false %}
+  {% assign sidebar_config = nil %}
+{% elsif page.sidebar %}
+  {% if page.sidebar == "nav" or page.sidebar == true %}
+    {% assign sidebar_config = site.sidebar %}
+  {% elsif page.sidebar != nil and site.data.navigation[page.sidebar] %}
+    {% assign sidebar_config = site.data.navigation[page.sidebar] %}
+  {% else %}
+    {% assign sidebar_config = page.sidebar %}
   {% endif %}
+{% elsif site.sidebar %}
+  {% assign sidebar_config = site.sidebar %}
+{% endif %}
+
+{% if page.author_profile or layout.author_profile or sidebar_config %}
+  <div class="sidebar sticky">
+    {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+    {% if sidebar_config %}
+      {% if sidebar_config.title %}
+        <h3>{{ sidebar_config.title }}</h3>
+      {% endif %}
+      {% if sidebar_config.text %}
+        {{ sidebar_config.text | markdownify }}
+      {% endif %}
+      {% if sidebar_config.image %}
+        <img src="{{ sidebar_config.image | relative_url }}" alt="{% if sidebar_config.image_alt %}{{ sidebar_config.image_alt }}{% endif %}">
+      {% endif %}
+
+      {% if sidebar_config.nav %}
+        {% include nav_list nav=sidebar_config.nav %}
+      {% else %}
+        {% include nav_list nav=sidebar_config %}
+      {% endif %}
+    {% endif %}
   </div>
 {% endif %}

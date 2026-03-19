@@ -1,30 +1,25 @@
 ---
 layout: single
-title: About
+title: About InfoDev Uni
 permalink: /About/
 toc: true
+sidebar: false
 ---
 
-Clueless Technical Writer is a website born out of curiousity to learn new and cool stuff about technical writing. While growing, the founder also noticed that a lot of technical writers are still as clueless as he was in the beginning. Hence he decided to summarize his learnings and help other technical writers be a better professional.
+Clueless Technical Writer is a practical learning portal for early-career documentation professionals and career-transitioners. Designed by a technical writer who started with the same questions you have now, this site combines structured guide content, real sample docs, and AI-assisted workflow references.
 
-The website is is majorly segregated in 5 parts.
+## What we offer
 
-## TWing UNI
+- **InfoDev Uni:** core writing theory, markup cheatsheets, and structured authoring fundamentals (Markdown, XML/DITA, Asciidoc, ReST).
+- **S-Docs:** end-to-end sample documentation for a fictional product (user manual, API docs, release notes, troubleshooting, and config guides).
+- **AI:** tips, tools, and examples for using generative AI (like GitHub Copilot) in technical writing workflows.
+- **Blogs:** short-form insights, updates, and reflective commentary on documentation practice.
+- **Beyond InfoDev:** career planning content for moving from technical writing to business analysis and product ownership.
 
-TWing UNI stands for Technical Writing University. It consists of the CHEATSHEETS of all the languages and theories learned by the founder. This segment really helps the visiting technical writers to brush-up their skill and get interview ready. It also helps them if they are stuck anywhere in the documetentation process. 
+## Vision
 
-## S-Docs
+Our goal is to help writers go from uncertain to confident with documentation deliverables, toolchain patterns, and career paths. The content is indexed for search engines and structured for quick navigation so you can find answers fast.
 
-This is a place where the founders creates a lot of sample documentation, e.g., software documentation, API documentation, feature documentation, user guides, user Manuals, troubleshooting guides, release notes, etc.
+## Join the journey
 
-## AI
-
-Here, the founder tries to blend the power of AI with technical writing. He goes around using  and creating Gen and Agentic AIs to perform technical writing more efficiently.
-
-## Blogs
-
-These are simple blogs, which the founder writes to keep his touch with the creative writing.
-
-## Beyond TWing
-
-This section is specially for the professional technical writers, who are looking forword transistion from a technical writer to a Business Analyst or a Product Owner role.
+Start with the InfoDev Uni lessons, then explore S-Docs for practical examples. Use the sidebar to navigate sections, read the "On this page" in each article, and apply the same patterns for your own documentation projects.

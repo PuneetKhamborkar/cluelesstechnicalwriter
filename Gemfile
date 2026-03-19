@@ -8,13 +8,15 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll"
+# Use GitHub Pages' supported Jekyll version to match the site build on GitHub.
+# Remove or comment out the explicit `jekyll` gem to avoid version conflicts.
+# gem "jekyll"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minimal-mistakes-jekyll"
-gem "github-pages", "~> 232"
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
+
+# Use GitHub Pages for local build to match the production environment.
+gem "github-pages", "~> 232", group: :jekyll_plugins
+# To upgrade, run `bundle update github-pages`.
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"

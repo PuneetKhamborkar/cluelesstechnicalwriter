@@ -2,47 +2,67 @@
 main:
   - title: "About"
     url: /About/
-  - title: "TWing Uni"
-    url: /TWing-Uni/
+  - title: "InfoDev Uni"
+    url: /InfoDev-Uni/
   - title: "S-Docs"
     url: /S-Docs/
   - title: "AI"
     url: /AI/
   - title: "Blogs"
     url: /Blogs/
-  - title: "Beyond TWing"
-    url: /Beyond-TWing/
+  - title: "Beyond InfoDev"
+    url: /Beyond-InfoDev/
+
+# About links
+About:
+  - title: "About"
+    url: /About/
+
+# InfoDev Uni links
+InfoDev_Uni:
+  - title: "InfoDev Uni Home"
+    url: /InfoDev-Uni/
+  - title: "Markup Comparison"
+    url: /InfoDev-Uni/markup-comparison/
+  - title: "XML & DITA Basics"
+    url: /InfoDev-Uni/xml-dita-basics/
 
 # S-Docs links
 S-Docs:
-  - title: "S-Docs"
-    children:
-      - title: "API"
-        url: /S-Docs/API-Doc/
-      - title: "Feature Documentation"
-        url: /S-Docs/Feature-Doc/
-      - title: "DITA"
-        url: /S-Docs/DITA/
-      - title: "Grant"
-        url: /S-Docs/Grant-Doc/
-      - title: "Medical Documentation"
-        url: /S-Docs/Medical-Doc/
-      - title: "Product Documentation"
-        url: /S-Docs/Product-Doc/
-      - title: "User Guide"
-        url: /S-Docs/User-Guide/
-      - title: "User Manual"
-        url: /S-Docs/User-Manual/
-      - title: "UX Documentation"
-        url: /S-Docs/UX-Doc/
+  - title: "Introduction"
+    url: /S-Docs/
+  - title: "User Manual"
+    url: /S-Docs/user-manual/
+  - title: "Configuration Guide"
+    url: /S-Docs/configuration-guide/
+  - title: "REST API"
+    url: /S-Docs/rest-api/
+  - title: "SOAP API"
+    url: /S-Docs/soap-api/
+  - title: "Release Notes"
+    url: /S-Docs/release-notes/
+  - title: "New Feature"
+    url: /S-Docs/new-feature/
+  - title: "Quick Start"
+    url: /S-Docs/quick-start/
+  - title: "Quick Installation"
+    url: /S-Docs/quick-install/
+  - title: "Troubleshooting"
+    url: /S-Docs/troubleshooting/
+
+# AI links
+AI:
+  - title: "AI Home"
+    url: /AI/
+  - title: "Native-AI Knowledge OS Slide Deck"
+    url: /AI/Native-aiKnowledgeOs.pdf/
 
 # Blogs links
 Blogs:
   - title: "Blogs"
-    children:
-      - title: "Blog1"
-        url: /Blogs/
-      - title: "Blog2"
-        url: /Blogs/
-      - title: "Blog3"
-        url: /Blogs/
+    url: /Blogs/
+
+# Beyond InfoDev links
+Beyond_InfoDev:
+  - title: "Beyond InfoDev Home"
+    url: /Beyond-InfoDev/
