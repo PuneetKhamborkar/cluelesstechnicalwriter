@@ -6,15 +6,9 @@ toc: true
 sidebar: S-Docs
 ---
 
-# S-Docs Home
+## Overview
 
 Welcome to the S-Docs project hub, where concepts become polished documentation pieces. This landing page is your gateway to a complete example documentation set that you can copy and adapt instantly.
-
-## On this page
-
-- [Why S-Docs matters](#why-s-docs-matters)
-- [What’s included](#whats-included)
-- [How to use this example](#how-to-use-this-example)
 
 ## Why S-Docs matters
 

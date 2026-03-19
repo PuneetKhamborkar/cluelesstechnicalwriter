@@ -6,17 +6,7 @@ toc: true
 sidebar: S-Docs
 ---
 
-# Introduction to S-Docs
-
 S-Docs is a sample documentation collection designed to showcase how you can structure and present technical documentation using Markdown, Jekyll, and the Minimal Mistakes theme. It includes a variety of document types—user guides, configuration references, API documentation, release notes, and more—to help you see common patterns and best practices.
-
-## On this page
-
-- [Introduction to S-Docs](#introduction-to-s-docs)
-  - [On this page](#on-this-page)
-  - [What is S-Docs?](#what-is-s-docs)
-  - [Sample documentation included](#sample-documentation-included)
-  - [How to use these docs](#how-to-use-these-docs)
 
 ## What is S-Docs?
 

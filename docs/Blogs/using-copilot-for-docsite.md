@@ -7,8 +7,6 @@ toc: true
 sidebar: Blogs
 ---
 
-# I’m using Copilot to set up my docsite
-
 I am building a documentation site in Jekyll with the Minimal Mistakes theme, and GitHub Copilot has been my development partner. This post explains a complete, repeatable process for technical writers to use AI to generate SEO-friendly docs, navigation, and site architecture.
 
 ## What I did with Copilot

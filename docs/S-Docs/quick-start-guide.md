@@ -6,19 +6,7 @@ toc: true
 sidebar: S-Docs
 ---
 
-# Quick Start
-
-## On this page
-
-- [Step 1: Access the Application](#step-1-access-the-application)
-- [Step 2: Create an Account](#step-2-create-an-account)
-- [Step 3: Set Up Your Profile](#step-3-set-up-your-profile)
-- [Step 4: Create Your First Project](#step-4-create-your-first-project)
-- [Step 5: Add Tasks](#step-5-add-tasks)
-- [Step 6: Use Boards and Filters](#step-6-use-boards-and-filters)
-- [Step 7: Collaborate](#step-7-collaborate)
-- [Step 8: Explore Additional Features](#step-8-explore-additional-features)
-- [Tips for Success](#tips-for-success)
+## Quick Start
 
 This guide walks new users through the essential steps to get up and running with AcmeTasker in under 10 minutes.
 
