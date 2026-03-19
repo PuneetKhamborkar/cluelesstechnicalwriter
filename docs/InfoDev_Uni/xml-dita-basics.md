@@ -12,7 +12,7 @@ XML (eXtensible Markup Language) is a general-purpose markup language that uses 
 
 The simplest XML document looks like this:
 
-`xml
+```xml
 <?xml version= 1.0?>
 <note>
   <to>User</to>
@@ -20,7 +20,7 @@ The simplest XML document looks like this:
   <heading>Reminder</heading>
   <body>Don't forget to check the docs!</body>
 </note>
-`
+```
 
 Each element must be closed, and nesting must be well-formed. XML documents may include attributes, namespaces, and a DOCTYPE declaration when validating against a DTD.
 
@@ -28,7 +28,7 @@ Each element must be closed, and nesting must be well-formed. XML documents may 
 
 DITA is an application of XML for technical content. A minimal topic example:
 
-`xml
+```xml
 <?xml version=1.0 encoding=UTF-8?>
 <!DOCTYPE topic PUBLIC -//OASIS//DTD DITA Topic//EN topic.dtd>
 <topic id=example>
@@ -37,23 +37,23 @@ DITA is an application of XML for technical content. A minimal topic example:
     <p>This is a simple DITA topic.</p>
   </body>
 </topic>
-`
+```
 
 ### Common DITA Elements
-- <title>: the title of the topic.
-- <body>: contains the content, typically <p>, <section>, <task>, or <concept>.
-- <section>: a logical subsection within the body.
+- \<title>\: the title of the topic.
+- \<body>\: contains the content, typically \<p>\, \<section>\, \<task>\, or \<concept>\.
+- \<section>\: a logical subsection within the body.
 
 ## DITA Maps
-A DITA map (<code>.ditamap</code>) assembles topics into a publication. Example:
+A DITA map (\<code>.ditamap\</code>\) assembles topics into a publication. Example:
 
-`xml
+```xml
 <map>
   <title>Manual</title>
   <topicref href=intro.dita/>
   <topicref href=usage.dita/>
 </map>
-`
+```
 
 Maps control navigation and can include metadata, branches, and conditional processing attributes.
 
