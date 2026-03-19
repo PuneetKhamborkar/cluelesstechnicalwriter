@@ -1,12 +1,10 @@
 ---
 layout: single
-title: "AI Resources"
+title: "AI Home"
 permalink: /AI/
 toc: true
-sidebar: AI
+sidebar: false
 ---
-
-# AI Resources for Technical Writing
 
 Welcome to the AI section where you can access tools, guides, and reference content for AI-assisted documentation workflows.
 

@@ -6,6 +6,8 @@ toc: true
 sidebar: S-Docs
 ---
 
+## Introduction
+
 This guide explains how to configure AcmeTasker for production and development environments. It covers file-based settings, environment variables, and advanced options used by administrators and deployers.
 
 ## Prerequisites

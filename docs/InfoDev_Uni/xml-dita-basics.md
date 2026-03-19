@@ -6,19 +6,6 @@ toc: true
 sidebar: InfoDev_Uni
 ---
 
-# Using XML and DITA
-
-## On this page
-
-- [Basic XML Example](#basic-xml-example)
-- [DITA Topic Example](#dita-topic-example)
-- [Common DITA Elements](#common-dita-elements)
-- [DITA Maps](#dita-maps)
-- [Working with DITA](#working-with-dita)
-- [Advanced Features](#advanced-features)
-- [Tools and Workflow](#tools-and-workflow)
-- [Best Practices](#best-practices)
-
 XML (eXtensible Markup Language) is a general-purpose markup language that uses angle-bracket syntax to represent hierarchical data. DITA (Darwin Information Typing Architecture) is an XML application designed specifically for technical documentation.
 
 ## Basic XML Example

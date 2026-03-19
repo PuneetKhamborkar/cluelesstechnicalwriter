@@ -6,18 +6,6 @@ toc: true
 sidebar: InfoDev_Uni
 ---
 
-# Markup Language Comparison
-
-## On this page
-
-- [Markup Language Comparison](#markup-language-comparison)
-  - [On this page](#on-this-page)
-  - [Syntax Comparison Table](#syntax-comparison-table)
-  - [Example Table in Markdown](#example-table-in-markdown)
-  - [Block Elements](#block-elements)
-  - [Footnotes and References](#footnotes-and-references)
-  - [Pros \& Cons](#pros--cons)
-
 This document compares **HTML**, **Markdown**, **Asciidoc**, and **ReStructuredText (ReST)** syntax for common elements. Each language has its strengths and typical use cases; choose the one that fits your tooling and audience.
 
 - **HTML** is the standard markup for web pages; verbose but highly expressive.

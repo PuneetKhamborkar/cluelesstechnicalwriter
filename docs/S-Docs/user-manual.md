@@ -7,6 +7,7 @@ sidebar: S-Docs
 ---
 
 ## Overview
+
 Welcome to AcmeTasker, the leading task management software designed for teams of all sizes. This document serves as the official user manual, providing comprehensive instructions on how to use the application and its features.
 
 ## Introduction
