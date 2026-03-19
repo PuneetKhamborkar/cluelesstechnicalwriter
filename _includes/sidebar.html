@@ -1,5 +1,7 @@
 {% assign sidebar_config = nil %}
-{% if page.sidebar == false %}
+{% if page.url == "/" %}
+  {% assign sidebar_config = nil %}
+{% elsif page.sidebar == false %}
   {% assign sidebar_config = nil %}
 {% elsif page.sidebar %}
   {% if page.sidebar == "nav" or page.sidebar == true %}
@@ -29,7 +31,7 @@
 
       {% if sidebar_config.nav %}
         {% include nav_list nav=sidebar_config.nav %}
-      {% elsif sidebar_config instanceof Array %}
+      {% else %}
         {% include nav_list nav=sidebar_config %}
       {% endif %}
     {% endif %}
