@@ -22,6 +22,8 @@ main:
 S-Docs:
   - title: "S-Docs"
     children:
+      - title: "S-Docs Home"
+        url: /S-Docs/
       - title: "AcmeTasker (sample docs)"
         children:
           - title: "Introduction"
