@@ -7,9 +7,9 @@ sidebar: false
 keywords: "technical writing training, documentation guide, API docs, Jekyll docs, InfoDev Uni, business analyst transition, product owner career"
 ---
 
-## Welcome to cluelesstechnicalwriter.com
+## Welcome to this website
 
-Welcome to cluelesstechnicalwriter.com, the fast-track resource for practical technical writing and documentation delivery. This site is designed for people who want to write fewer pages and deliver more value faster.
+It is a fast-track resource for practical technical writing and documentation delivery. This site is designed for people who want to write fewer pages and deliver more value faster.
 
 - Master crisp, user-focused documentation with ready-to-use templates.
 - Follow a real implementation walkthrough (AcmeTasker S-Docs) to see what good docs look like.
