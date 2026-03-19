@@ -10,19 +10,22 @@ sidebar: nav
 
 ## On this page
 
-- [Prerequisites](#prerequisites)
-- [Configuration File Structure](#configuration-file-structure)
-- [Database Setup](#database-setup)
-- [Email and Notifications](#email-and-notifications)
-- [Environment Variables](#environment-variables)
-- [Advanced Configuration](#advanced-configuration)
-- [Logging Configuration](#logging-configuration)
-- [Load Balancing & Clustering](#load-balancing--clustering)
-- [Security Settings](#security-settings)
-- [Backup Settings](#backup-settings)
-- [Example Profiles](#example-profiles)
-- [Troubleshooting Configuration](#troubleshooting-configuration)
-- [Contact Support](#contact-support)
+- [AcmeTasker Configuration Guide](#acmetasker-configuration-guide)
+  - [On this page](#on-this-page)
+  - [Prerequisites](#prerequisites)
+  - [Configuration File Structure](#configuration-file-structure)
+    - [Sample config.json](#sample-configjson)
+  - [Database Setup](#database-setup)
+  - [Email and Notifications](#email-and-notifications)
+  - [Environment Variables](#environment-variables)
+  - [Advanced Configuration](#advanced-configuration)
+  - [Logging Configuration](#logging-configuration)
+  - [Load Balancing \& Clustering](#load-balancing--clustering)
+  - [Security Settings](#security-settings)
+  - [Backup Settings](#backup-settings)
+  - [Example Profiles](#example-profiles)
+  - [Troubleshooting Configuration](#troubleshooting-configuration)
+  - [Contact Support](#contact-support)
 
 This guide explains how to configure AcmeTasker for production and development environments. It covers file-based settings, environment variables, and advanced options used by administrators and deployers.
 
