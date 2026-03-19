@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: posts
 title: How I Used GitHub Copilot to Build My Tech Docs Site
-permalink: /Blogs/using-copilot-for-docsite/
+permalink: /Blogs/
 date: 2026-03-19
 toc: true
 sidebar: Blogs
