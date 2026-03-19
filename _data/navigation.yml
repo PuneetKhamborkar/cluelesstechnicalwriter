@@ -13,6 +13,11 @@ main:
     url: /S-Docs/
   - title: "AI"
     url: /AI/
+    children:
+      - title: "AI Resources"
+        url: /AI/
+      - title: "Native-AI Knowledge OS Slide Deck"
+        url: /AI/Native-ai Knowledge Os — Slide Deck (plan & Roadmap) (1).pdf
   - title: "Blogs"
     url: /Blogs/
   - title: "Beyond InfoDev"
