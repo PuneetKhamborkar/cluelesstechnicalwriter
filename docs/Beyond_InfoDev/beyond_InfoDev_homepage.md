@@ -1,6 +1,6 @@
 ---
-layout: collection
-title: Beyond InfoDev - Elevate Your Career from Technical Writing to Product Leadership
+layout: single
+title: Technical Writing to Anything Else
 permalink: /Beyond-InfoDev/
 description: "Beyond InfoDev helps technical writers transition into business analysis, product management, and leadership roles with practical advice and career strategies."
 toc: true

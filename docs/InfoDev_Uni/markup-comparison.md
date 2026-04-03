@@ -15,29 +15,7 @@ This document compares **HTML**, **Markdown**, **Asciidoc**, and **ReStructuredT
 
 ## Syntax Comparison Table
 
-| Element            | HTML                            | Markdown                 | Asciidoc                          | ReST                               |
-|--------------------|---------------------------------|--------------------------|-----------------------------------|------------------------------------|
-| Heading level 1    | <h1>Title</h1>                | # Title                | = Title =                       | Title\n=====                    |
-| Heading level 2    | <h2>Sub</h2>                  | ## Sub                 | == Sub ==                       | Sub\n----                        |
-| Bold               | <strong>text</strong>         | **text**               | *text*                          | **text**                         |
-| Italic             | <em>text</em>                 | *text*                 | _text_                          | *text*                           |
-| Link               | <a href= url>link</a>      | [link](url)            | link:url[]                      | `link <url>`__                  |
-| Image              | <img src=img alt=alt> | ![alt](img)            | image::img[alt]                 | `.. image:: img\n    :alt: alt`  |
-| Unordered list     | <ul><li>item</li></ul>        | - item                 | * item                          | - item                           |
-| Ordered list       | <ol><li>one</li></ol>         | 1. one                 | . one                           | 1. one                           |
-| Nested list        | see HTML nesting                | - outer\n  - inner    | * outer\n** inner             | - outer\n  - inner              |
-| Blockquote         | <blockquote>quote</blockquote>| > quote                | ____\nquote\n____            | > quote                          |
-| Code block         | <pre><code>code</code></pre>  | <code>`code`</code>  | ``\ncode\n``             | ``\ncode\n``             |
-| Inline code        | <code>code</code>             | ` code `             | ` code `                      | ` code `                      |
-| Table              | <table>...</table>            | pipe-delimited           | pipe-delimited                    | grid or simple table syntax       |
-
-## Example Table in Markdown
-
-`
-| Name  | Age |
-|-------|-----|
-| Alice | 30  |
-` 
+![Comparison Table of Markup Languages](/assets/images/Comparison_of_documentation_syntax_elements.png)
 
 ## Block Elements
 

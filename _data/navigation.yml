@@ -26,11 +26,15 @@ InfoDev_Uni:
     url: /InfoDev-Uni/markup-comparison/
   - title: "XML & DITA Basics"
     url: /InfoDev-Uni/xml-dita-basics/
+  - title: "DITA vs Diátaxis"
+    url: /InfoDev-Uni/dita-vs-diataxis/
 
 # S-Docs links
 S-Docs:
   - title: "Introduction"
     url: /S-Docs/
+  - title: "Architecture"
+    url: /S-Docs/architecture/
   - title: "User Manual"
     url: /S-Docs/user-manual/
   - title: "Configuration Guide"

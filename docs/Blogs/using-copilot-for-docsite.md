@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: single
 title: How I Used GitHub Copilot to Build My Tech Docs Site
 permalink: /Blogs/
 date: 2026-03-19

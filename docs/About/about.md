@@ -1,6 +1,6 @@
 ---
 layout: single
-title: About InfoDev Uni
+title: About
 permalink: /About/
 toc: true
 sidebar: false
