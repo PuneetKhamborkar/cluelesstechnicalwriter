@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Quick Installation Guide
+title: "Quick Installation Guide"
 permalink: /S-Docs/quick-install/
 toc: true
 sidebar: S-Docs
