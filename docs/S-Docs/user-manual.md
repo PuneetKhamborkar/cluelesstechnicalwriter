@@ -1,6 +1,6 @@
 ---
 layout: single
-title: AcmeTasker User Manual
+title: "AcmeTasker User Manual"
 permalink: /S-Docs/user-manual/
 toc: true
 sidebar: S-Docs

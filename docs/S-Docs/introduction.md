@@ -1,6 +1,6 @@
 ---
 layout: single
-title: S-Docs Introduction
+title: "S-Docs Introduction"
 permalink: /S-Docs/
 toc: true
 sidebar: S-Docs

@@ -1,6 +1,6 @@
 ﻿---
 layout: single
-title: REST API
+title: "REST API"
 permalink: /S-Docs/rest-api/
 toc: true
 sidebar: S-Docs
