@@ -1,14 +1,11 @@
 ---
 layout: single
-title: "Clueless Technical Writer"
+title: "Welcome"
 description: "Clueless Technical Writer: free guides, tutorials, and sample docs to master technical writing, API docs, and career transition to business analysis or product ownership."
 toc: false
 sidebar: false
 keywords: "technical writing training, documentation guide, API docs, Jekyll docs, InfoDev Uni, business analyst transition, product owner career"
 ---
-
-## Welcome to this website
-
 It is a fast-track resource for practical technical writing and documentation delivery. This site is designed for people who want to write fewer pages and deliver more value faster.
 
 - Master crisp, user-focused documentation with ready-to-use templates.

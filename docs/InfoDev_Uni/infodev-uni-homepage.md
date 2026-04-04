@@ -9,7 +9,7 @@ sidebar: InfoDev_Uni
 Welcome to **InfoDev Uni**. This is a practical learning space for technical writers who want to go beyond documentation and understand the technologies behind it.
 
 This is not theory-heavy. The goal is simple:  
-👉 Learn just enough to work confidently with developers, tools, and modern documentation systems.
+Learn just enough to work confidently with developers, tools, and modern documentation systems.
 
 ---
 
